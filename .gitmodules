@@ -1,0 +1,3 @@
+[submodule "diffusion-maps"]
+	path = diffusion-maps
+	url = https://github.com/abt8601/diffusion-maps
